@@ -3,7 +3,7 @@
 - 🔭 I’m currently student at YouCode 
 - 💬 Ask me about literally anything, I would be glad to help (if I can ✨)
 - 😄 Pronouns: She / Her
--📫 How to reach me: Shoot me an email at chaimaetoumy5@gmail.com
+- 📫 How to reach me: Shoot me an email at chaimaetoumy5@gmail.com
 
 ## GitHub Stats
 
