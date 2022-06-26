@@ -1,8 +1,12 @@
 # Hi, I'm Chaimaa ET-Toumy ! 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&width=600&center=true&lines=full+stack+web+and+mobile+web+developer"></a>
+</p>
 
 - 🔭 I’m currently student at YouCode 
 - 💬 Ask me about literally anything, I would be glad to help (if I can ✨)
 - 😄 Pronouns: She / Her
+
 
 ## GitHub Stats
 
