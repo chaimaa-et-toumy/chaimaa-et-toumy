@@ -2,11 +2,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&width=600&center=true&lines=full+stack+web+and+mobile+web+developer"></a>
 </p>
-
+## :sassy_man:  About me
 - 🔭 I’m currently student at YouCode 
 - 💬 Ask me about literally anything, I would be glad to help (if I can ✨)
 - 😄 Pronouns: She / Her
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimaa-et-toumy&label=Profile%20views&color=0e75b6&style=flat" alt="chaimaa-et-toumy" /> </p>
 
 ## GitHub Stats
 
