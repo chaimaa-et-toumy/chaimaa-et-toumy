@@ -6,16 +6,14 @@
 ## About me
 - 🔭 I’m currently student at YouCode 
 - 💬 Ask me about literally anything, I would be glad to help (if I can ✨)
+-  :thinking: I’m open for: `An Intern` or a new `job opportunity`.
 - 😄 Pronouns: She / Her
 
 
 
-## profile
+## profile Visitors
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimaa-et-toumy&label=Profile%20views&color=0e75b6&style=flat" alt="chaimaa-et-toumy" /> </p>
 
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaimaa-et-toumy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaa-et-toumy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Profile Visitors
-![](https://komarev.com/ghpvc/?username=chaimaa-et-toumy&style=flat-square)
