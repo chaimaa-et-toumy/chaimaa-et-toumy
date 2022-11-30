@@ -7,7 +7,6 @@
 - 🔭 I’m currently student at YouCode 
 - 💬 Ask me about literally anything, I would be glad to help (if I can ✨)
 -  :thinking: I’m open for: `An Intern` or a new `job opportunity`.
-- 😄 Pronouns: She / Her
 
 
 
